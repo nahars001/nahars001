@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nahars001
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning java 
+- 👀 I’m interested in Web Dev
+- 🌱 I’m currently learning MERN STACK 
 - 💞️ I’m looking to collaborate on @eric-host
 - 📫 How to reach me nahar@erichost.in
 
