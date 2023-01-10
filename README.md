@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Dev
 - 🌱 I’m currently learning MERN STACK 
 - 💞️ I’m looking to collaborate on @eric-host
-- 📫 How to reach me nahar@erichost.in
+- 📫 How to reach me nahasingh7@outlook.com
 
 <!---
 nahars001/nahars001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
