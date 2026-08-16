@@ -20,9 +20,9 @@
   <table align="center">
     <tr>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=nahars001&theme=dark&show_icons=true&count_private=true" alt="Parag's GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=nahars001&theme=dark&show_icons=true&count_private=true" alt="Nahar's GitHub Stats" />
         <br><br>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=nahars001&theme=dark" alt="Parag's Streak Stats" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=nahars001&theme=dark" alt="Nahar's Streak Stats" />
       </td>
       <td width="50%" align="center">
         <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=nahars001&theme=dark&langs_count=10" alt="Top Languages" />
